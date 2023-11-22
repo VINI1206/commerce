@@ -61,19 +61,19 @@ body{
 }
 
 .container .product .color .Blue violet{
-    background: #9ABE62;
+    background: #8A2BE2;
 }
 
-.container .product .color .black{
-    background: #222627;
+.container .product .color .indigo{
+    background: #4B0082;
 }
 
-.container .product .color .red{
-    background: #B41D26;
+.container .product .color .cyan{
+    background: #00FFFF;
 }
 
 .container .product .color .blue{
-    background: #DE522F;
+    background: #0000FF;
 }
 
 .container .product .color .active::after{
